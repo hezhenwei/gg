@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/fogleman/gg"
-	"github.com/golang/freetype/truetype"
-	"golang.org/x/image/font/gofont/goregular"
+	"github.com/hezhenwei/gg"
+	"github.com/hezhenwei/golang/freetype/truetype"
+	"github.com/hezhenwei/golang/x/image/font/gofont/goregular"
 )
 
 func main() {
