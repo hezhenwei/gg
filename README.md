@@ -13,7 +13,7 @@ so I can use it if the golang.org cannot be reached
 
 ## Documentation
 
-https://godoc.org/github.com/fogleman/gg
+https://godoc.org/github.com/hezhenwei/gg
 
 ## Hello, Circle!
 
