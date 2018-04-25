@@ -11,10 +11,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/hezhenwei/golang/freetype/truetype"
 
-	"golang.org/x/image/font"
-	"golang.org/x/image/math/fixed"
+	"github.com/hezhenwei/golang/x/image/font"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 func Radians(degrees float64) float64 {
