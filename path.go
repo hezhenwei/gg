@@ -1,8 +1,8 @@
 package gg
 
 import (
-	"github.com/golang/freetype/raster"
-	"golang.org/x/image/math/fixed"
+	"github.com/hezhenwei/golang/freetype/raster"
+	"github.com/hezhenwei/x/image/math/fixed"
 )
 
 func flattenPath(p raster.Path) [][]Point {
