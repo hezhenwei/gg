@@ -22,7 +22,7 @@ Look how easy!
 ```go
 package main
 
-import "github.com/fogleman/gg"
+import "github.com/hezhenwei/gg"
 
 func main() {
     dc := gg.NewContext(1000, 1000)
@@ -195,7 +195,7 @@ See the output of this example below.
 ```go
 package main
 
-import "github.com/fogleman/gg"
+import "github.com/hezhenwei/gg"
 
 func main() {
 	const S = 1024
