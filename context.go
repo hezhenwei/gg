@@ -9,11 +9,11 @@ import (
 	"io"
 	"math"
 
-	"github.com/golang/freetype/raster"
-	"golang.org/x/image/draw"
-	"golang.org/x/image/font"
-	"golang.org/x/image/font/basicfont"
-	"golang.org/x/image/math/f64"
+	"github.com/hezhenwei/golang/freetype/raster"
+	"github.com/hezhenwei/x/image/draw"
+	"github.com/hezhenwei/x/image/font"
+	"github.com/hezhenwei/x/image/font/basicfont"
+	"github.com/hezhenwei/x/image/math/f64"
 )
 
 type LineCap int
