@@ -10,10 +10,10 @@ import (
 	"math"
 
 	"github.com/hezhenwei/golang/freetype/raster"
-	"github.com/hezhenwei/x/image/draw"
-	"github.com/hezhenwei/x/image/font"
-	"github.com/hezhenwei/x/image/font/basicfont"
-	"github.com/hezhenwei/x/image/math/f64"
+	"github.com/hezhenwei/golang/x/image/draw"
+	"github.com/hezhenwei/golang/x/image/font"
+	"github.com/hezhenwei/golang/x/image/font/basicfont"
+	"github.com/hezhenwei/golang/x/image/math/f64"
 )
 
 type LineCap int
