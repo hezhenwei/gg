@@ -3,7 +3,7 @@ package gg
 import (
 	"math"
 
-	"github.com/hezhenwei/x/image/math/fixed"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 type Point struct {
